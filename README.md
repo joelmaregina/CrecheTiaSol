@@ -1,4 +1,4 @@
-<p align=center><img src="https://github.com/cloudgirlsin/CrecheTiaSol/blob/desenvolvedoras/assets/img/logo_tiasol.png" width=200 ></p>
+<p align=center> <a href = "https://www.crechetiasol.com.br"><img src="https://github.com/cloudgirlsin/CrecheTiaSol/blob/desenvolvedoras/assets/img/logo_tiasol.png" width=200 ></a></p>
 <h1 align=center>Site da Creche Escola Comunitária Tia Sol</h1>
 
 <p align=center><img src= "https://img.shields.io/static/v1?label=Status&message=Desenvolvido&color=green&style=flat"> 
@@ -35,7 +35,7 @@
 - [:lock: Licença](#lock-licença)
 
 ## :rocket: Deploy
-[Site  da Creche Escola Comunitária Tia Sol](www.crechetiasol.com.br)
+[Site  da Creche Escola Comunitária Tia Sol](https://www.crechetiasol.com.br)
 
 ## :warning: Pré-requisitos
 - Editor de texto
